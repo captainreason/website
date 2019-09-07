@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/captainreason
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.captainreason.com
+  * I am captainreason (https://keybase.io/captainreason) on keybase.
+  * I have a public key ASC51TTbWsGDVJABhMgi1I60mAg_1_pxYK1qk5oi5PDWGwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b9d534db5ac18354900184c822d48eb498083fd7fa7160ad6a939a22e4f0d61b0a",
+      "host": "keybase.io",
+      "kid": "0120b9d534db5ac18354900184c822d48eb498083fd7fa7160ad6a939a22e4f0d61b0a",
+      "uid": "0166abcf787a0f73bc89ca48d1977919",
+      "username": "captainreason"
+    },
+    "merkle_root": {
+      "ctime": 1567877016,
+      "hash": "fa3a6fcd5297194382fa0a44f06d6bedaf77ed59d25eb9cce30013de9f8c3248112c22c0da6b396ffea18a74ff5e4fea650d936c558544b4841ff311ee4ef1c3",
+      "hash_meta": "206f8a014031aa25380de168c33fb51d53c66c2a1781c80529b6bf907b581246",
+      "seqno": 6195557
+    },
+    "service": {
+      "entropy": "p0U2NNmG7gzdqbEeECTKt8O9",
+      "hostname": "www.captainreason.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.3.2"
+  },
+  "ctime": 1567877070,
+  "expire_in": 504576000,
+  "prev": "27f171df346db20d4852db7320f5a309a0bdac34054c964a1953b77321bbbfbd",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgudU021rBg1SQAYTIItSOtJgIP9f6cWCtapOaIuTw1hsKp3BheWxvYWTESpcCCMQgJ/Fx3zRtsg1IUttzIPWjCaC9rDQFTJZKGVO3cyG7v73EINWavRLPNSvn/d7UmxDPkvXIbjPd40q2dYApwxDPFX9/AgHCo3NpZ8RAx4XmrITAbOO8OnrPb2w5yIPRKlwXxtWFqT62mGgWT/poseNsQigCu/C20OMt088eqriwaRUjhweB2pp/EDLrBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEjfESKgeeetSPr17ecjTReJaexnDPYT5D+QDN8UR1FSo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/captainreason
+
+==================================================================
